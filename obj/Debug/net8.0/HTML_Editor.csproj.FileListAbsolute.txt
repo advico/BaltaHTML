@@ -1,0 +1,14 @@
+C:\Users\adria\HTML_Editor\obj\Debug\net8.0\HTML_Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\HTML_Editor\obj\Debug\net8.0\HTML_Editor.AssemblyInfoInputs.cache
+C:\Users\adria\HTML_Editor\obj\Debug\net8.0\HTML_Editor.AssemblyInfo.cs
+C:\Users\adria\HTML_Editor\obj\Debug\net8.0\HTML_Editor.csproj.CoreCompileInputs.cache
+C:\Users\adria\HTML_Editor\bin\Debug\net8.0\HTML_Editor.exe
+C:\Users\adria\HTML_Editor\bin\Debug\net8.0\HTML_Editor.deps.json
+C:\Users\adria\HTML_Editor\bin\Debug\net8.0\HTML_Editor.runtimeconfig.json
+C:\Users\adria\HTML_Editor\bin\Debug\net8.0\HTML_Editor.dll
+C:\Users\adria\HTML_Editor\bin\Debug\net8.0\HTML_Editor.pdb
+C:\Users\adria\HTML_Editor\obj\Debug\net8.0\HTML_Editor.dll
+C:\Users\adria\HTML_Editor\obj\Debug\net8.0\refint\HTML_Editor.dll
+C:\Users\adria\HTML_Editor\obj\Debug\net8.0\HTML_Editor.pdb
+C:\Users\adria\HTML_Editor\obj\Debug\net8.0\HTML_Editor.genruntimeconfig.cache
+C:\Users\adria\HTML_Editor\obj\Debug\net8.0\ref\HTML_Editor.dll
